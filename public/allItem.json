@@ -1,0 +1,308 @@
+[  
+    {
+      "product_id": 1,
+      "product_title": "Dell Inspiron 15",
+      "product_image": "https://i.ibb.co.com/TPZWrMY/Dell-Inspiron-15.jpg",
+      "category": "Laptop",
+      "price": 599.99,
+      "description": "A versatile laptop with a 15.6-inch display and Intel Core i5 processor.",
+      "specification": [
+        "Intel Core i5",
+        "8GB RAM",
+        "256GB SSD",
+        "15.6-inch Full HD Display",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 2,
+      "product_title": "HP Pavilion x360",
+      "product_image": "https://i.ibb.co.com/YB6XgRV/HP-Pavilion-x360.jpg",
+      "category": "Laptop",
+      "price": 749.99,
+      "description": "A sleek convertible laptop with touch functionality.",
+      "specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch Touchscreen Display",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "product_title": "Apple MacBook Air",
+      "product_image": "https://i.ibb.co.com/X4Kf4h8/Apple-Mac-Book-Air.jpg",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "Lightweight and powerful, with the M1 chip for enhanced performance.",
+      "specification": [
+        "Apple M1 Chip",
+        "8GB RAM",
+        "256GB SSD",
+        "13.3-inch Retina Display",
+        "macOS"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 4,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/TgydTPv/Lenovo-Think-Pad-X1-Carbon.jpg",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "A business-class laptop with exceptional performance and durability.",
+      "specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "1TB SSD",
+        "14-inch Full HD Display",
+        "Windows 11 Pro"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 5,
+      "product_title": "Asus ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co.com/m66hMY2/Asus-ROG-Zephyrus-G14.webp",
+      "category": "Laptop",
+      "price": 1399.99,
+      "description": "A high-performance gaming laptop with AMD Ryzen 9 processor.",
+      "specification": [
+        "AMD Ryzen 9",
+        "16GB RAM",
+        "1TB SSD",
+        "14-inch WQHD Display",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 6,
+      "product_title": "Acer Aspire 5",
+      "product_image": "https://i.ibb.co.com/7NWqGNv/Acer-Aspire-5.webp",
+      "category": "Laptop",
+      "price": 499.99,
+      "description": "A budget-friendly laptop with a large display and solid performance.",
+      "specification": [
+        "Intel Core i3",
+        "4GB RAM",
+        "128GB SSD",
+        "15.6-inch HD Display",
+        "Windows 10"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 7,
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://i.ibb.co.com/7RtrbKX/Microsoft-Surface-Laptop-4.jpg",
+      "category": "Laptop",
+      "price": 1149.99,
+      "description": "A premium laptop with a touch display and excellent build quality.",
+      "specification": [
+        "Intel Core i5",
+        "8GB RAM",
+        "256GB SSD",
+        "13.5-inch PixelSense Display",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 8,
+      "product_title": "Razer Blade 15",
+      "product_image": "https://i.ibb.co.com/cJnbJTJ/Razer-Blade-15.jpg",
+      "category": "Laptop",
+      "price": 1799.99,
+      "description": "A sleek and powerful gaming laptop with advanced graphics.",
+      "specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "1TB SSD",
+        "15.6-inch Full HD Display",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 9,
+      "product_title": "Samsung Galaxy Book Flex2",
+      "product_image": "https://i.ibb.co.com/93qjbtX/Samsung-Galaxy-Book-Flex2.jpg",
+      "category": "Laptop",
+      "price": 1349.99,
+      "description": "A 2-in-1 laptop with a stunning QLED display and S Pen support.",
+      "specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3-inch QLED Touchscreen",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 10,
+      "product_title": "Gigabyte Aero 15",
+      "product_image": "https://i.ibb.co.com/VSjP68y/Gigabyte-Aero-15.jpg",
+      "category": "Laptop",
+      "price": 1999.99,
+      "description": "A creator-focused laptop with 4K display and powerful hardware.",
+      "specification": [
+        "Intel Core i9",
+        "32GB RAM",
+        "1TB SSD",
+        "15.6-inch 4K OLED Display",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 11,
+      "product_title": "iPhone 14",
+      "product_image": "https://i.ibb.co.com/g7q9c2x/i-Phone-14.jpg",
+      "category": "Smartphone",
+      "price": 799.99,
+      "description": "The latest iPhone with improved camera and performance.",
+      "specification": [
+        "6.1-inch Super Retina XDR Display",
+        "A16 Bionic Chip",
+        "128GB Storage",
+        "Dual-camera System",
+        "iOS 16"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 12,
+      "product_title": "iPhone 13 Mini",
+      "product_image": "https://i.ibb.co.com/XpHJxHc/i-Phone-13-Mini.webp",
+      "category": "Smartphone",
+      "price": 699.99,
+      "description": "A compact and powerful iPhone for users who prefer smaller devices.",
+      "specification": [
+        "5.4-inch Super Retina XDR Display",
+        "A15 Bionic Chip",
+        "128GB Storage",
+        "Dual-camera System",
+        "iOS 15"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 13,
+      "product_title": "iPhone 14 Pro Max",
+      "product_image": "https://i.ibb.co.com/Fn6TXL3/i-Phone-14-Pro-Max.jpg",
+      "category": "Smartphone",
+      "price": 1199.99,
+      "description": "A premium iPhone with advanced features and ProMotion display.",
+      "specification": [
+        "6.7-inch Super Retina XDR Display",
+        "A16 Bionic Chip",
+        "256GB Storage",
+        "Triple-camera System",
+        "iOS 16"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 14,
+      "product_title": "iPhone SE (3rd Gen)",
+      "product_image": "https://i.ibb.co.com/Q8V74Dy/i-Phone-SE-3rd-Gen.png",
+      "category": "Smartphone",
+      "price": 429.99,
+      "description": "Affordable iPhone with powerful performance in a compact size.",
+      "specification": [
+        "4.7-inch Retina HD Display",
+        "A15 Bionic Chip",
+        "64GB Storage",
+        "Single-camera System",
+        "iOS 16"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 15,
+      "product_title": "Logitech MX Master 3",
+      "product_image": "https://i.ibb.co.com/x2Hsz31/Logitech-MX-Master-3.webp",
+      "category": "Accessories",
+      "price": 99.99,
+      "description": "An advanced ergonomic mouse with customizable buttons and precise tracking.",
+      "specification": [
+        "Wireless",
+        "USB-C Charging",
+        "Ergonomic Design",
+        "Customizable Buttons",
+        "Bluetooth & USB Connectivity"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 16,
+      "product_title": "Anker PowerCore 26800",
+      "product_image": "https://i.ibb.co.com/sQsQv7q/Anker-Power-Core-26800.jpg",
+      "category": "Accessories",
+      "price": 64.99,
+      "description": "A high-capacity portable charger with fast charging support.",
+      "specification": [
+        "26800mAh Capacity",
+        "Dual USB Ports",
+        "Fast Charging",
+        "Compact Design",
+        "Compatible with Multiple Devices"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 17,
+      "product_title": "SteelSeries Arctis 7",
+      "product_image": "https://i.ibb.co.com/py2Y9r8/Steel-Series-Arctis-7.png",
+      "category": "Accessories",
+      "price": 149.99,
+      "description": "A wireless gaming headset with surround sound and long battery life.",
+      "specification": [
+        "Wireless",
+        "Surround Sound",
+        "24-hour Battery Life",
+        "Retractable Microphone",
+        "Compatible with PC and Console"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 18,
+      "product_title": "Corsair K95 RGB Platinum",
+      "product_image": "https://i.ibb.co.com/LNVgSGs/Corsair-K95-RGB-Platinum.jpg",
+      "category": "Accessories",
+      "price": 199.99,
+      "description": "A mechanical gaming keyboard with dynamic RGB lighting.",
+      "specification": [
+        "Cherry MX Switches",
+        "RGB Lighting",
+        "6 Programmable Macro Keys",
+        "Detachable Wrist Rest",
+        "USB Passthrough"
+      ],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
