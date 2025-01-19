@@ -1,8 +1,48 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Gadget-Heaven
 
-Currently, two official plugins are available:
+An e-commerce platform for GadgetHaven, a gadget-buying website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## The Website Live Link :-
+
+https://mh-assaignment-08.netlify.app/
+## React Fundamental concepts used in The Website
+
+JSX (JavaScript XML)
+
+Components (Functional and Class Components)
+
+Props (Properties)
+
+State
+
+Hooks (e.g., useState, useEffect, useContext, etc.)
+
+Event Handling
+
+Conditional Rendering
+
+Lists and Keys
+
+React Router
+
+
+
+
+
+
+
+
+## I Mainly Use Local Storage To Build This Website
+## 5 features of This website
+
+1.Easy To Access.
+
+2.Categories Sidebar to Categorise.
+
+3.Details Page will show every single Details.
+
+4.Dashboard page will have two tabs => Cart, and WishList.
+
+5.Show toast Some Clicks.

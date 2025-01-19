@@ -69,10 +69,9 @@ const Dashboard = () => {
                                 <p className='mr-6 font-bold text-lg'>Total Cost :- ${totalCost.toFixed(2)} </p>
                                 <button onClick={() => handleSort()} className="btn btn-outline btn-accent mr-2">Sort By Price</button>
 
-                                {/* The button to open modal */}
                                 <a href="#my_modal_8" onClick={handlePurchase} className="btn btn-accent">Purchase</a>
 
-                                {/* Put this part before </body> tag */}
+                                
                                 <div className="modal" role="dialog" id="my_modal_8">
                                     <div className="modal-box">
                                         <img className='text-center mx-auto mb-5' src={purchaseImg} alt="" />
